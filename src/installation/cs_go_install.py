@@ -1,9 +1,5 @@
-#!/usr/bin/python3
-'''
-Created on Sep 23, 2014
+#!/usr/bin/env python3
 
-@author: samuel
-'''
 import argparse
 import installation_helpers
 

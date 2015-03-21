@@ -1,1 +1,1 @@
-__author__ = 'samu'
+#!/usr/bin/env python3
