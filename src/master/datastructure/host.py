@@ -8,3 +8,10 @@ class Host:
         self.user = user
         self.service_list = []
 
+
+    def add_host(self):
+        pass
+
+
+    def delete_host(self):
+        pass

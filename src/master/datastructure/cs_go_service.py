@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from src.datastructure.service import Service
+from src.master.datastructure.service import Service
 
 
 class CsGo(Service):
